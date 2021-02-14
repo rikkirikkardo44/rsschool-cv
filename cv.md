@@ -1,11 +1,13 @@
 Evgeny Unger
 ============
 
--------------------     ----------------------------
-email:                        en.unger@gmail.com
-github.com:                   https://github.com/rikkirikkardo44
-linkedin:                     https://www.linkedin.com/in/evgeny-unger-a416961a3/
--------------------     ----------------------------
+
+Contact Information
+---------
+
+email: en.unger@gmail.com  
+github.com: https://github.com/rikkirikkardo44  
+linkedin: https://www.linkedin.com/in/evgeny-unger-a416961a3/  
 
 Education
 ---------
